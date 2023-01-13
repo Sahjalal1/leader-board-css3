@@ -1,7 +1,7 @@
 /* fonts */
  <style>
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap'); 
- </style>
+</style>
 
 /* common styles */
 body {
@@ -105,10 +105,6 @@ hr{
 }
 
 /* media queries */
-@media only screen and (mex-width:688px){
-    .players{
-        background-color: rgb(155, 27, 27);
-    }
-}
+
 
     
